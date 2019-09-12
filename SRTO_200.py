@@ -6,6 +6,7 @@ import ssl,socket
 file = open("hostnames_new.txt","r")
 #This is the result file inlcuding all the response code
 result_file = open("SRTO_Result_200.txt","a")
+#Define the request URL path, change the path to what you want to check
 PATH ="/akamai/sureroute-test-object.html"
 for i in file:
     try:

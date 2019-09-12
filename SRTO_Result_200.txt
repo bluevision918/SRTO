@@ -1,0 +1,327 @@
+holidays.qantas.com.au;302
+www.qantas.com;200
+www.qantas.com.au;200
+book.qantas.com;200
+book.qantas.com.au;200
+dr.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+m-dr.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+cloudmonitor.akamai.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+download.qantas.com.au;503
+failovertls.qfbenefits.com;[Errno 8] nodename nor servname provided, or not known
+www.qfbenefits.com;503
+www.qantasprocurement.com;503
+prod-admin.aquire.com.au;[Errno 8] nodename nor servname provided, or not known
+uat-admin.ql.aquire.com.au;[Errno 8] nodename nor servname provided, or not known
+uat.ql.aquire.com.au;[Errno 8] nodename nor servname provided, or not known
+www.aquire.com.au;301
+sts.qantas.com.au;503
+www.qantascourier.com.au;hostname 'www.qantascourier.com.au' doesn't match either of 'a248.e.akamai.net', '*.akamaihd.net', '*.akamaized-staging.net', '*.akamaihd-staging.net', '*.akamaized.net'
+confluence.qantas.com.au;404
+failover.confluence.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+jira.qantas.com.au;404
+api.insurance.qantas.com;500
+health.insurance.qantas.com;302
+insurance.qantas.com;404
+www.qantasassure.com;301
+qfcrew.com;301
+www.qfcrew.com;301
+www.qfflightcrew.com;503
+hotfix.qantasgrouptravel.com;timed out
+movies.qantaspoints.com;[Errno 8] nodename nor servname provided, or not known
+www.dev.redplanetgroup.com.au;503
+www.redplanetgroup.com.au;503
+www.sit.redplanetgroup.com.au;503
+www.stg.redplanetgroup.com.au;503
+bot-failover.book.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+www-verification.qantas.com.au;200
+qantasfutureplanet.com.au;timed out
+www.qantasfutureplanet.com.au;503
+cloudmonitor-akamai.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+api.qantas.com;404
+apisso.qantas.com;502
+api-stage.qantas.com;404
+api-test.qantas.com;hostname 'api-test.qantas.com' doesn't match '*.test.edgekey.net'
+apisso-dev.qantas.com;502
+failover.api-stg.qantas.com;[Errno 8] nodename nor servname provided, or not known
+eqextportalpsp.qantas.com.au;404
+eqpsp.qantas.com.au;302
+www.eqpsp.qantas.com.au;404
+m.sto.qantas.com;503
+sto.qantas.com;503
+wsl.qantas.com.au;200
+remote.qantasloyalty.com;302
+www.qantasoutofoffice.com;timed out
+learninghub.qantas.com;503
+www.learninghub.qantas.com;503
+www.effplus.qantas.com.au;('The read operation timed out',)
+stg-wifi.qantas.com;503
+uat-wifi.qantas.com;503
+failover.test.qantasgrouptravel.com;[Errno 8] nodename nor servname provided, or not known
+test.qantasgrouptravel.com;503
+dreamliner.qantas.com;200
+book.qantasgrouptravel.com;503
+qantasgrouptravel.com;timed out
+resource.qantasgrouptravel.com;503
+www.qantasgrouptravel.com;503
+staging.sto.qantas.com;503
+eq.qantas.com.au;302
+eqextportal.qantas.com.au;404
+wifi.qantas.com;503
+admin-staging.qantasstore.com.au;200
+api-staging.qantasstore.com.au;200
+failover-www.qantasstore.com.au;[Errno 8] nodename nor servname provided, or not known
+www-staging.qantasstore.co.nz;200
+www-staging.qantasstore.com.au;200
+www.qantasbusinessrewards.com;200
+www.qantasbusinessrewards.com.au;301
+www.stg.qantasbusinessrewards.com;200
+equalityis.qantas.com;[Errno 8] nodename nor servname provided, or not known
+failover.sts1.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+ndes.qantas.com.au;404
+sts1.qantas.com.au;404
+eqpspapi.qantas.com.au;503
+eqsitapi.qantas.com.au;503
+failovertls.eqsitapi.qantas.com;[Errno 8] nodename nor servname provided, or not known
+eqapi.qantas.com.au;503
+failiovertls.eqapi.qantas.com;[Errno 8] nodename nor servname provided, or not known
+admin.qantasstore.com.au;302
+api.qantasstore.com.au;302
+www-failover.qantasstore.com.au;[Errno 8] nodename nor servname provided, or not known
+www.qantasstore.co.nz;302
+www.qantasstore.com.au;302
+ski-holidays.qantas.com;timed out
+www.ski-holidays.qantas.com;timed out
+avroaccelerator.qantas.com;[Errno 8] nodename nor servname provided, or not known
+qbr.api.qantas.com;403
+eprocurement.qantas.com;503
+failovertls.eprocurement.qantas.com;[Errno 8] nodename nor servname provided, or not known
+api.stage.qlfs.io;403
+api.uat.qlfs.io;403
+assets.stage.qlfs.io;403
+assets.uat.qlfs.io;403
+www.stage.qlfs.io;403
+www.uat.qlfs.io;403
+api.dev.qlfs.io;403
+api.test.qlfs.io;403
+assets.dev.qlfs.io;403
+assets.test.qlfs.io;403
+www.dev.qlfs.io;403
+www.test.qlfs.io;403
+api.qantasmoney.com;503
+assets.qantasmoney.com;404
+myaccount.qantascash.com;301
+myaccount.qantascash.com.au;301
+www.qantascash.com;301
+www.qantascash.com.au;301
+www.qantasmoney.com;404
+www.qantasloyalty.com;301
+www.stg.qantasloyalty.com;301
+failover.web.qantas.net.au;[Errno 8] nodename nor servname provided, or not known
+web.qantas.net.au;301
+failover.qcom-stg.qantastesting.com;[Errno 8] nodename nor servname provided, or not known
+qcom-stg.qantastesting.com;403
+nft.qbr.api.qantas.com;403
+sit.qbr.api.qantas.com;403
+test1.qbr.api.qantas.com;403
+test2.qbr.api.qantas.com;403
+test3.qbr.api.qantas.com;403
+test4.qbr.api.qantas.com;403
+test5.qbr.api.qantas.com;403
+activities.qantas.com.au;404
+store.qantas.com;301
+dev.freight.qantas.com;404
+failover.sit.freight.qantas.com;[Errno 8] nodename nor servname provided, or not known
+sit.freight.qantas.com;404
+stg.freight.qantas.com;502
+failover.freight.qantas.com;[Errno 8] nodename nor servname provided, or not known
+freight.qantas.com;404
+www.mycardoffers.dev.qantasmall.com;[Errno 8] nodename nor servname provided, or not known
+www.mycardoffers.qantasmall.com;301
+www.mycardoffers.sit.qantasmall.com;403
+www.mycardoffers.stg.qantasmall.com;403
+www.qantasmall.co.nz;302
+www.qantasmall.com;302
+www.qantasmall.com.au;302
+www-staging.qantasmall.co.nz;[Errno 8] nodename nor servname provided, or not known
+www-staging.qantasmall.com;[Errno 8] nodename nor servname provided, or not known
+www-staging.qantasmall.com.au;[Errno 8] nodename nor servname provided, or not known
+dev.red.qantas.com;404
+failovertls.dev.red.qantas.com;[Errno 8] nodename nor servname provided, or not known
+red.qantas.com;404
+stg.red.qantas.com;404
+stg.red.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+uat.red.qantas.com;404
+uat.red.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+test-download.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+ooo-dev.qantastesting.com;503
+failover.ids.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+ids.qantas.com.au;503
+idspsp.qantas.com.au;503
+idstest.qantas.com.au;503
+test.qantasoutofoffice.com;[Errno 8] nodename nor servname provided, or not known
+lpx.qantas.com;503
+lpx.qldev.qantas.com;503
+lpx.qlsit.qantas.com;503
+lpx.qlstg.qantas.com;503
+failover.interbids.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+interbids.qantas.com.au;301
+failover.frontend.qantas.com;[Errno 8] nodename nor servname provided, or not known
+frontend.qantas.com;503
+frontend.qcom-stg.qantastesting.com;503
+accounts-dev.qantas.com;200
+accounts-sit.qantas.com;200
+accounts-stg.qantas.com;200
+accounts.qantas.com;200
+api.services-dev.qantasloyalty.com;403
+api.services-sit.qantasloyalty.com;403
+api.services-stg.qantasloyalty.com;403
+api.services.qantasloyalty.com;404
+cdn.dev.qantasloyalty.com;503
+cdn.qantasloyalty.com;503
+cdn.services.qantasloyalty.com;[Errno 8] nodename nor servname provided, or not known
+cdn.sit.qantasloyalty.com;503
+cdn.stg.qantasloyalty.com;503
+aimintranet.qantas.com.au;503
+failover.qaccess.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+qaccess.qantas.com.au;503
+groundstar-stage.qantas.com.au;503
+groundstar.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+lpe.qantas.com;[Errno 8] nodename nor servname provided, or not known
+www.qantasshop.com.au;timed out
+www.redplanetportal.com.au;301
+failover.www.assethub.qantas.com;[Errno 8] nodename nor servname provided, or not known
+www.acmkt.qantas.com;403
+www.assethub.qantas.com;503
+www.dev.acmkt.qantas.com;403
+www.stage.acmkt.qantas.com;403
+www.stage.assethub.qantas.com;503
+static.dev.qantasloyalty.com;503
+static.qantasloyalty.com;503
+static.sit.qantasloyalty.com;503
+static.stg.qantasloyalty.com;503
+failover.www.qantasvacations.com;[Errno 8] nodename nor servname provided, or not known
+www.qantasvacations.com;503
+shopping.qantas.com;503
+shopping.qldev.qantas.com;403
+shopping.qlsit.qantas.com;403
+shopping.qlstg.qantas.com;403
+www.dev.qantasshopping.com;[Errno 8] nodename nor servname provided, or not known
+www.qantasshopping.co.nz;301
+www.qantasshopping.com;302
+www.qantasshopping.com.au;301
+www.sit.qantasshopping.com;[Errno 8] nodename nor servname provided, or not known
+www.stg.qantasshopping.com;[Errno 8] nodename nor servname provided, or not known
+webcis-np.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+webcis.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+agents-search.qantas.com;503
+failover.search.qantas.com;[Errno 8] nodename nor servname provided, or not known
+search.qantas.com;503
+failovertls.qantas.zafire.com;[Errno 8] nodename nor servname provided, or not known
+qantas.zafire.com;503
+qantas.zafire.com.au;hostname 'qantas.zafire.com.au' doesn't match either of 'customer.qantas.com', 'www.qantasnewsroom.com.au', 'pay.qantasgrouptravel.com', 'www.qantasoutofoffice.com', 'io.qantas.com.au', 'resource.qantasgrouptravel.com', 'ski-holidays.qantas.com', 'agents-search.qantas.com', 'comp.qantas.co.nz', 'meetingrooms.qantas.com.au', 'www.qantasgrouptravel.com', 'www.acmkt.qantas.com', 'qantas.zafire.com', 'sydneysidersguide.qantas.com', 'search.qantas.com', 'www.qantasexplorer.com', 'www.qantasvacations.com', 'transfers.qantas.com.au', 'qmft-web.qantas.com.au', 'book.qantasgrouptravel.com', 'flightswitch.qantas.com', 'wsl.qantas.com.au', 'flightchange.qantas.com', 'rednoseday.qantas.com', 'activities.qantas.com.au', 'www.ski-holidays.qantas.com', 'avroaccelerator.qantas.com', 'qmr.qantas.com.au', 'equalityis.qantas.com', 'red.qantas.com', 'www.dev.acmkt.qantas.com', 'www.assethub.qantas.com', 'qantas.ismartsoftware.net', 'comp.qantas.com', 'projectconnect.qantas.com', 'secure.howwasqantas.com', 'freight.qantas.com', 'www.stage.acmkt.qantas.com', 'qbr.api.qantas.com', 'web.qantas.net.au', 'qac.api.qantas.com', 'www.qantasshop.com.au'
+failover.www.qantassuper.com.au;[Errno 8] nodename nor servname provided, or not known
+www.qantassuper.com.au;503
+asp1.visualvault.com;503
+failovertls.asp1.visualvault.com;[Errno 8] nodename nor servname provided, or not known
+www.qantastracker.com;503
+failover.www.qantasnewsroom.com.au;[Errno 8] nodename nor servname provided, or not known
+www.qantasnewsroom.com.au;503
+nft.qac.api.qantas.com;403
+stage.qac.api.qantas.com;403
+test1.qac.api.qantas.com;403
+test2.qac.api.qantas.com;403
+test3.qac.api.qantas.com;403
+test4.qac.api.qantas.com;403
+test5.qac.api.qantas.com;403
+proxy.mgt.qlfs.io;[Errno 8] nodename nor servname provided, or not known
+tools.qlfs.io;[Errno 8] nodename nor servname provided, or not known
+qac.api.qantas.com;403
+failover.webroster.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+webroster-stg.qantas.com.au;503
+webroster.qantas.com.au;503
+cvt.book.qantas.com;200
+dev.book.qantas.com;404
+pcm.book.qantas.com;403
+stg.book.qantas.com;405
+stg.book.qantas.com.au;400
+uat.book.qantas.com;200
+failover.qantascollege.kineoportal.com.au;hostname 'failover.qantascollege.kineoportal.com.au' doesn't match either of 'kineoportal.com', '*.kineoportal.com'
+qantascollege.kineoportal.com.au;503
+qantasgroundops.kineoportal.com.au;503
+taylorfry.kineoportal.com.au;503
+failover.qmft-web.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+qmft-web-test.qantas.com.au;503
+qmft-web.qantas.com.au;503
+failover.myprint.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+myprint-test.qantas.com.au;503
+myprint.qantas.com.au;503
+api.stage.insurance.qantas.com;403
+health.stage.insurance.qantas.com;403
+stage.insurance.qantas.com;403
+stage.qantasassure.com;301
+stage.qantasinsurance.com;[Errno 8] nodename nor servname provided, or not known
+survey.redplanetportal.com.au;503
+flightchange.qantas.com;200
+charm-akamai-poc.qantasloyalty.net;[Errno 8] nodename nor servname provided, or not known
+charm.ifly.qantasloyalty.net;503
+charm.ifly.stg.qantasloyalty.net;503
+fly.charm-akamai-poc.qantasloyalty.net;[Errno 8] nodename nor servname provided, or not known
+insurance.iloyal.qantasloyalty.net;503
+insurance.iloyal.stg.qantasloyalty.net;503
+login.akamai-eaa.qantasloyalty.net;404
+static.qantas.com;404
+static.qcom-stg.qantastesting.com;503
+dev.io.qantas.com.au;503
+io.qantas.com.au;503
+stg.io.qantas.com.au;503
+test.io.qantas.com.au;503
+failover.secure.howwasqantas.com;[Errno 8] nodename nor servname provided, or not known
+secure.howwasqantas.com;301
+eqadminpsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqappspsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqdiscpsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqdr-sp-ap1.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqportaladminpsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqportalpsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqssopsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+eqwebpsp.qantas.com.au;[Errno 8] nodename nor servname provided, or not known
+dev.insurance.qantas.com;[Errno 8] nodename nor servname provided, or not known
+dev.qins.io;[Errno 8] nodename nor servname provided, or not known
+test.qins.io;[Errno 8] nodename nor servname provided, or not known
+uat.qins.io;[Errno 8] nodename nor servname provided, or not known
+dev.qtt.elenium.com;503
+prod.qtt.elenium.com;503
+stage.qtt.elenium.com;503
+admin.qantasepiqure.com.au;301
+beta-prod-admin.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+beta-prod.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+qe-uat-admin.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+qe-uat.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+supplier.qantasepiqure.com.au;302
+uat-admin.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+uat-supplier.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+uat.qantasepiqure.com.au;[Errno 8] nodename nor servname provided, or not known
+www.qantasepiqure.com;301
+www.qantasepiqure.com.au;301
+www.qantasexplorer.com;200
+restaurants-test.qantaspoints.com;404
+restaurants.qantaspoints.com;301
+onlinemall.qantaspoints.com;301
+prod-admin.qantaspoints.com;503
+qp-uat-admin.qantaspoints.com;timed out
+qp-uat.qantaspoints.com;timed out
+www.qantaspoints.com;503
+www.qantaspoints.com.au;301
+pointspilot.qantas.com;503
+pointspilot.qldev.qantas.com;503
+pointspilot.qlsit.qantas.com;503
+pointspilot.qlstg.qantas.com;503
+stage.qins.io;[Errno 8] nodename nor servname provided, or not known
+wine.qantas.com;503
+wine.qldev.qantas.com;403
+wine.qlsit.qantas.com;403
+wine.qlstg.qantas.com;403
+lps.qantas.com;503
+lps.qldev.qantas.com;503
+lps.qlsit.qantas.com;503
+lps.qlstg.qantas.com;503
