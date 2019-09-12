@@ -6,10 +6,11 @@ import ssl,socket
 file = open("hostnames_new.txt","r")
 #This is the result file inlcuding all the response code
 result_file = open("SRTO_Result_200.txt","a")
+PATH ="/akamai/sureroute-test-object.html"
 for i in file:
     try:
         conn = httplib.HTTPSConnection(i.strip('\n'),timeout=10)
-        conn.request("HEAD","/akamai/sureroute-test-object.html")
+        conn.request("HEAD",PATH)
         response = conn.getresponse() 
         result = i.strip('\n') + ';' +str(response.status)
         result_file.write(result + '\n')
